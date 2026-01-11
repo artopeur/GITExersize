@@ -1,0 +1,2 @@
+# GIT Exersize
+Git liikuntaa
